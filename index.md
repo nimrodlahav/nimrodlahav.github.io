@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <div style="width: 300px;">
-    <img src="assets/images/sunset.jpg" style="width: 100%;">
+    <img src="assets/WhatsApp Image 2025-06-29 at 03.42.57 (1).jpeg" style="width: 100%;">
     <h3>"Sunset on the Beach"</h3>
     <p><strong>Price:</strong> $500<br>
        <strong>Size:</strong> 60x80 cm<br>
